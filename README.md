@@ -7,7 +7,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 
 #### Papers
 
-* [Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) (Allspaw)
+* ~~[Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) (Allspaw)~~
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) (Bailis et al.)
 * [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) (Bigley and Roberts)
